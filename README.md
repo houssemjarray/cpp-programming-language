@@ -1,2 +1,2 @@
 # cpp-programming-language
-all code for the programming cpp language course
+all codes for the programming cpp language course
